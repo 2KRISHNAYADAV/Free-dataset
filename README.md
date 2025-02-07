@@ -9,7 +9,7 @@ Welcome to this repository! 🚀 I am providing free datasets to help you practi
 - 📓 **Notebooks**: Step-by-step solutions will be uploaded regularly.
 
 ## 🔥 How to Use
-1. Click on the **DOC files** and **Excel** to find the dataset links and challenges.
+1. Click on the **DOC files** and **Excel** and **CSV** to find the dataset links and challenges.
 2. Download the dataset and start solving the challenge.
 3. Watch the **YouTube tutorials** for guidance.
 4. Check the repository for updated **Jupyter Notebooks**.
