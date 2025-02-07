@@ -1,0 +1,551 @@
+ID,Name,Age,Email,Join Date,City
+1210,Frank,65,user.name@site.org,15-01-2023,SF
+1785,Eve,29,,2023-01-15,SF
+1823,Diana,43,example@domain.com,2023-01-15,LA
+1983,Alice,53,user.name@site.org,01/17/2023,San Francisco
+1943,,,invalid@,15-01-2023,LA
+1229,Bob,77,,01/17/2023,San Francisco
+1898,Alice,82,example@domain.com,Invalid Date,Los Angeles
+1333,Charlie,26,invalid@,15-01-2023,SF
+1259,Diana,96,example@domain.com,2023-01-16,Los Angeles
+1423,Frank,50,invalid@,2023-01-16,NY
+1910,Alice,89,,2023-01-16,New York
+1155,,,,Invalid Date,San Francisco
+1792,Frank,67,,2023-01-15,LA
+1119,,,invalid@,2023-01-16,San Francisco
+1088,Frank,3,,2023-01-15,New York
+1124,Alice,37,example@domain.com,15-01-2023,NY
+1327,Alice,82,user.name@site.org,Invalid Date,SF
+1689,Frank,,user.name@site.org,2023-01-15,SF
+1532,Alice,,,2023-01-16,NY
+1234,Frank,,,2023-01-16,New York
+1514,Eve,,,Invalid Date,New York
+1572,Diana,,user.name@site.org,15-01-2023,
+1319,Bob,,,2023-01-16,
+1643,Eve,28,user.name@site.org,Invalid Date,New York
+1798,Eve,,user.name@site.org,15-01-2023,Los Angeles
+1076,Charlie,16,,01/17/2023,SF
+1865,Alice,73,example@domain.com,2023-01-16,SF
+1586,Diana,67,example@domain.com,15-01-2023,New York
+1602,Bob,57,,01/17/2023,SF
+1476,Charlie,,,2023-01-16,
+1896,Eve,,invalid@,15-01-2023,New York
+1101,Eve,,user.name@site.org,01/17/2023,SF
+1163,Frank,73,,2023-01-16,NY
+1739,Bob,73,user.name@site.org,01/17/2023,New York
+1918,Charlie,,,2023-01-15,New York
+1132,Eve,78,example@domain.com,Invalid Date,NY
+1408,Charlie,,example@domain.com,2023-01-16,New York
+1390,Diana,,example@domain.com,2023-01-15,SF
+1821,Alice,34,,2023-01-16,Los Angeles
+1076,Alice,41,,15-01-2023,LA
+1830,,24,,01/17/2023,
+1787,Charlie,26,user.name@site.org,Invalid Date,NY
+1116,Bob,1,user.name@site.org,2023-01-15,LA
+1045,Alice,4,example@domain.com,15-01-2023,San Francisco
+1049,Alice,49,,2023-01-16,NY
+1593,Charlie,38,,2023-01-16,Los Angeles
+1237,Diana,64,invalid@,Invalid Date,Los Angeles
+1622,Bob,,user.name@site.org,2023-01-15,SF
+1897,Diana,89,invalid@,Invalid Date,New York
+1580,Charlie,11,user.name@site.org,2023-01-16,Los Angeles
+1996,Bob,,,Invalid Date,San Francisco
+1644,Bob,66,,15-01-2023,LA
+1287,Eve,64,example@domain.com,15-01-2023,San Francisco
+1951,,99,,01/17/2023,New York
+1231,,18,invalid@,Invalid Date,New York
+1300,Bob,63,example@domain.com,15-01-2023,
+1848,Charlie,56,,15-01-2023,San Francisco
+1842,Eve,,user.name@site.org,01/17/2023,San Francisco
+1875,Eve,32,,15-01-2023,San Francisco
+1472,,34,,15-01-2023,SF
+1266,Charlie,63,example@domain.com,2023-01-15,San Francisco
+1073,,2,invalid@,Invalid Date,LA
+1557,,76,,15-01-2023,SF
+1005,Bob,82,invalid@,2023-01-16,New York
+1981,Frank,4,,Invalid Date,
+1361,Frank,28,invalid@,15-01-2023,NY
+1750,Diana,34,,15-01-2023,Los Angeles
+1435,Eve,,example@domain.com,2023-01-16,San Francisco
+1301,Alice,9,invalid@,2023-01-16,NY
+1054,Diana,53,,01/17/2023,San Francisco
+1441,Frank,,,01/17/2023,San Francisco
+1966,,91,,2023-01-15,New York
+1889,Alice,,,01/17/2023,
+1530,Diana,15,example@domain.com,2023-01-16,Los Angeles
+1996,Bob,,,Invalid Date,San Francisco
+1870,Alice,66,invalid@,15-01-2023,SF
+1135,Charlie,97,,15-01-2023,San Francisco
+1298,Charlie,,example@domain.com,2023-01-16,
+1093,Charlie,46,,2023-01-15,SF
+1579,Bob,,invalid@,2023-01-15,NY
+1857,Alice,65,invalid@,2023-01-15,Los Angeles
+1723,Eve,27,example@domain.com,01/17/2023,SF
+1318,,92,,2023-01-15,Los Angeles
+1037,Bob,71,example@domain.com,2023-01-15,SF
+1013,Eve,12,,01/17/2023,SF
+1377,Bob,34,,15-01-2023,LA
+1969,Alice,78,,Invalid Date,New York
+1203,Eve,48,example@domain.com,2023-01-16,New York
+1930,Alice,8,invalid@,Invalid Date,SF
+1375,Bob,51,user.name@site.org,Invalid Date,NY
+1322,Alice,,user.name@site.org,2023-01-15,Los Angeles
+1840,Bob,61,user.name@site.org,15-01-2023,New York
+1346,Bob,,user.name@site.org,01/17/2023,San Francisco
+1143,Eve,77,,Invalid Date,SF
+1736,Alice,30,,01/17/2023,SF
+1436,Charlie,82,invalid@,Invalid Date,SF
+1227,Frank,40,user.name@site.org,15-01-2023,San Francisco
+1775,Alice,65,user.name@site.org,01/17/2023,NY
+1748,Alice,35,,01/17/2023,New York
+1917,,,,2023-01-16,New York
+1214,Eve,76,,15-01-2023,NY
+1059,Charlie,63,,15-01-2023,
+1457,Diana,,,2023-01-15,LA
+1798,Eve,35,,01/17/2023,San Francisco
+1611,Alice,,user.name@site.org,15-01-2023,LA
+1067,,41,,01/17/2023,San Francisco
+1945,Eve,97,,2023-01-15,New York
+1433,Bob,,example@domain.com,2023-01-16,New York
+1021,,65,user.name@site.org,Invalid Date,SF
+1046,Alice,11,,2023-01-15,New York
+1205,Frank,50,,Invalid Date,LA
+1945,,62,,01/17/2023,LA
+1111,Alice,,,01/17/2023,NY
+1038,Bob,21,user.name@site.org,2023-01-15,NY
+1247,,,example@domain.com,01/17/2023,New York
+1621,Charlie,92,user.name@site.org,2023-01-15,
+1013,Charlie,97,user.name@site.org,01/17/2023,New York
+1813,Charlie,33,,Invalid Date,
+1279,Charlie,35,invalid@,01/17/2023,SF
+1749,Eve,6,,15-01-2023,San Francisco
+1433,Charlie,55,,2023-01-15,New York
+1268,,,user.name@site.org,2023-01-16,LA
+1045,Frank,36,,01/17/2023,New York
+1076,Charlie,68,user.name@site.org,Invalid Date,New York
+1548,Charlie,79,,01/17/2023,
+1486,Eve,52,example@domain.com,2023-01-16,New York
+1571,,16,user.name@site.org,Invalid Date,San Francisco
+1511,Alice,9,,15-01-2023,Los Angeles
+1003,,11,,2023-01-15,LA
+1468,Bob,,invalid@,Invalid Date,SF
+1294,Bob,91,example@domain.com,Invalid Date,
+1522,Diana,,user.name@site.org,2023-01-15,New York
+1783,Alice,87,,01/17/2023,NY
+1363,Eve,82,invalid@,01/17/2023,LA
+1324,Diana,,,01/17/2023,
+1863,,37,,2023-01-16,NY
+1995,Diana,38,,01/17/2023,New York
+1247,Diana,28,user.name@site.org,2023-01-16,Los Angeles
+1229,Charlie,21,user.name@site.org,2023-01-16,San Francisco
+1832,Eve,,example@domain.com,15-01-2023,San Francisco
+1759,Frank,34,,15-01-2023,
+1287,Alice,,user.name@site.org,01/17/2023,
+1945,Bob,2,example@domain.com,2023-01-16,New York
+1399,Frank,45,user.name@site.org,15-01-2023,SF
+1509,Alice,51,example@domain.com,Invalid Date,Los Angeles
+1002,Eve,82,,Invalid Date,LA
+1164,Bob,27,,15-01-2023,
+1658,Diana,16,example@domain.com,01/17/2023,SF
+1765,Alice,88,,2023-01-16,SF
+1690,Eve,,,01/17/2023,New York
+1722,Charlie,10,invalid@,Invalid Date,LA
+1193,Eve,93,example@domain.com,2023-01-16,NY
+1545,Charlie,26,,Invalid Date,SF
+1171,Alice,68,example@domain.com,2023-01-15,
+1214,Diana,61,,2023-01-16,SF
+1753,,10,,2023-01-15,New York
+1730,Bob,48,example@domain.com,01/17/2023,LA
+1196,Charlie,62,example@domain.com,Invalid Date,SF
+1227,Charlie,32,,2023-01-15,SF
+1464,Bob,85,,01/17/2023,NY
+1945,,62,,01/17/2023,LA
+1227,Frank,40,user.name@site.org,15-01-2023,San Francisco
+1881,Alice,89,user.name@site.org,Invalid Date,SF
+1579,Bob,,invalid@,2023-01-15,NY
+1226,Diana,22,example@domain.com,Invalid Date,
+1802,Charlie,81,example@domain.com,01/17/2023,SF
+1040,Eve,,user.name@site.org,Invalid Date,LA
+1640,Alice,20,invalid@,Invalid Date,NY
+1109,Diana,,,2023-01-15,
+1073,,2,invalid@,Invalid Date,LA
+1152,Bob,,example@domain.com,15-01-2023,New York
+1375,Bob,51,user.name@site.org,Invalid Date,NY
+1255,,10,example@domain.com,Invalid Date,NY
+1614,,23,,2023-01-15,Los Angeles
+1836,Frank,,user.name@site.org,2023-01-15,Los Angeles
+1515,Diana,74,example@domain.com,2023-01-16,NY
+1301,Charlie,,user.name@site.org,2023-01-16,New York
+1310,,16,invalid@,2023-01-15,LA
+1226,,4,example@domain.com,01/17/2023,Los Angeles
+1280,Alice,62,user.name@site.org,01/17/2023,NY
+1520,Bob,,,01/17/2023,
+1821,Alice,34,,2023-01-16,Los Angeles
+1212,,18,,Invalid Date,NY
+1662,Eve,14,invalid@,2023-01-16,LA
+1524,Eve,,user.name@site.org,Invalid Date,San Francisco
+1409,Diana,40,,15-01-2023,SF
+1954,Diana,,,01/17/2023,NY
+1251,,,invalid@,01/17/2023,LA
+1694,Charlie,2,,2023-01-15,LA
+1394,Eve,60,,15-01-2023,SF
+1516,Bob,,,2023-01-15,New York
+1032,Frank,92,,01/17/2023,
+1328,Eve,29,,2023-01-15,SF
+1960,Eve,37,example@domain.com,2023-01-15,New York
+1991,,43,example@domain.com,01/17/2023,LA
+1809,Alice,,,Invalid Date,San Francisco
+1728,Bob,47,,2023-01-16,Los Angeles
+1804,Bob,1,example@domain.com,15-01-2023,SF
+1257,,,user.name@site.org,2023-01-16,NY
+1561,Diana,,example@domain.com,2023-01-15,NY
+1420,Alice,78,,2023-01-16,San Francisco
+1318,,,example@domain.com,2023-01-16,LA
+1611,Alice,69,user.name@site.org,01/17/2023,NY
+1988,Eve,,example@domain.com,2023-01-15,San Francisco
+1621,Bob,72,invalid@,01/17/2023,LA
+1969,Alice,83,example@domain.com,15-01-2023,SF
+1506,Charlie,,,2023-01-15,San Francisco
+1318,Alice,18,example@domain.com,01/17/2023,NY
+1605,Alice,1,example@domain.com,01/17/2023,Los Angeles
+1658,Diana,16,example@domain.com,01/17/2023,SF
+1498,Diana,71,example@domain.com,15-01-2023,Los Angeles
+1141,,78,example@domain.com,01/17/2023,
+1604,,,invalid@,2023-01-16,San Francisco
+1041,Alice,96,,Invalid Date,New York
+1934,,,user.name@site.org,2023-01-16,
+1192,Bob,39,,2023-01-15,
+1400,,85,,15-01-2023,SF
+1690,Eve,,invalid@,2023-01-15,
+1747,Alice,74,user.name@site.org,2023-01-15,Los Angeles
+1348,Bob,76,user.name@site.org,15-01-2023,SF
+1332,Frank,,user.name@site.org,01/17/2023,
+1883,Frank,33,,15-01-2023,
+1629,,61,,15-01-2023,San Francisco
+1037,Bob,71,example@domain.com,2023-01-15,SF
+1757,Bob,44,user.name@site.org,2023-01-15,LA
+1834,Eve,7,,2023-01-15,NY
+1234,Diana,96,,2023-01-15,San Francisco
+1506,Charlie,,,2023-01-15,San Francisco
+1710,Frank,83,invalid@,2023-01-16,LA
+1798,Eve,,user.name@site.org,15-01-2023,Los Angeles
+1813,Bob,84,,2023-01-15,LA
+1774,Frank,79,,Invalid Date,New York
+1777,Diana,1,,Invalid Date,SF
+1845,Alice,86,example@domain.com,2023-01-16,Los Angeles
+1387,Eve,,,15-01-2023,NY
+1810,Diana,91,user.name@site.org,15-01-2023,SF
+1544,,22,user.name@site.org,15-01-2023,LA
+1104,Charlie,70,user.name@site.org,01/17/2023,LA
+1829,Alice,73,user.name@site.org,01/17/2023,SF
+1765,Alice,88,,2023-01-16,SF
+1916,Bob,,example@domain.com,2023-01-16,LA
+1623,Frank,90,invalid@,Invalid Date,SF
+1757,Charlie,17,invalid@,2023-01-15,New York
+1524,Bob,44,invalid@,01/17/2023,SF
+1367,Alice,95,,Invalid Date,NY
+1625,Diana,57,,2023-01-16,SF
+1166,Bob,36,example@domain.com,2023-01-15,NY
+1193,Frank,,example@domain.com,15-01-2023,San Francisco
+1917,Alice,78,,01/17/2023,San Francisco
+1194,Bob,99,invalid@,2023-01-15,SF
+1208,,,invalid@,15-01-2023,Los Angeles
+1828,Frank,1,,01/17/2023,San Francisco
+1769,Frank,43,,2023-01-16,LA
+1552,Alice,93,user.name@site.org,01/17/2023,Los Angeles
+1439,,49,,15-01-2023,San Francisco
+1073,Diana,24,example@domain.com,2023-01-15,San Francisco
+1546,Eve,33,,2023-01-16,NY
+1992,Frank,14,user.name@site.org,01/17/2023,LA
+1087,Bob,,invalid@,01/17/2023,San Francisco
+1724,,14,invalid@,01/17/2023,NY
+1182,Diana,56,example@domain.com,15-01-2023,
+1548,,,invalid@,2023-01-16,Los Angeles
+1688,Charlie,,invalid@,15-01-2023,New York
+1535,Eve,,,2023-01-15,NY
+1093,Eve,96,,2023-01-15,LA
+1795,Frank,51,example@domain.com,Invalid Date,LA
+1011,Charlie,34,,15-01-2023,LA
+1697,Frank,68,,01/17/2023,LA
+1109,Frank,,example@domain.com,15-01-2023,LA
+1045,Alice,4,example@domain.com,15-01-2023,San Francisco
+1871,Frank,9,,Invalid Date,Los Angeles
+1102,Diana,52,user.name@site.org,2023-01-15,
+1447,Diana,,invalid@,01/17/2023,
+1846,,12,,01/17/2023,NY
+1879,Bob,83,,Invalid Date,LA
+1006,Eve,36,,15-01-2023,New York
+1479,Charlie,61,invalid@,2023-01-15,
+1144,Bob,86,example@domain.com,2023-01-16,San Francisco
+1949,Frank,91,,Invalid Date,LA
+1223,Charlie,20,,15-01-2023,NY
+1252,Alice,95,example@domain.com,2023-01-15,San Francisco
+1732,Bob,,,01/17/2023,
+1683,Frank,14,,01/17/2023,SF
+1316,Eve,17,example@domain.com,15-01-2023,Los Angeles
+1501,,42,invalid@,Invalid Date,New York
+1549,,41,,01/17/2023,San Francisco
+1065,Diana,43,example@domain.com,15-01-2023,Los Angeles
+1850,Eve,80,example@domain.com,Invalid Date,San Francisco
+1621,Bob,49,user.name@site.org,2023-01-15,New York
+1648,Frank,17,invalid@,15-01-2023,Los Angeles
+1956,Frank,73,,15-01-2023,LA
+1418,,78,example@domain.com,2023-01-15,Los Angeles
+1289,,28,invalid@,01/17/2023,San Francisco
+1389,Alice,87,example@domain.com,01/17/2023,SF
+1483,Eve,10,,2023-01-15,SF
+1420,,36,example@domain.com,Invalid Date,Los Angeles
+1116,Eve,52,user.name@site.org,Invalid Date,
+1304,Bob,,example@domain.com,2023-01-15,New York
+1622,,,,2023-01-15,SF
+1960,Eve,37,example@domain.com,2023-01-15,New York
+1401,Frank,68,,2023-01-15,NY
+1155,Eve,69,example@domain.com,15-01-2023,LA
+1445,Charlie,29,,01/17/2023,SF
+1444,Diana,50,,Invalid Date,LA
+1846,,12,,01/17/2023,NY
+1071,Frank,,,01/17/2023,NY
+1317,Eve,3,example@domain.com,01/17/2023,Los Angeles
+1796,,,,01/17/2023,NY
+1577,,57,example@domain.com,Invalid Date,NY
+1093,Alice,51,example@domain.com,15-01-2023,San Francisco
+1670,Eve,98,,2023-01-16,San Francisco
+1827,Diana,1,,2023-01-16,LA
+1523,Frank,30,invalid@,2023-01-15,New York
+1093,Alice,4,example@domain.com,01/17/2023,NY
+1772,Bob,81,user.name@site.org,Invalid Date,SF
+1972,Bob,58,,15-01-2023,SF
+1991,Alice,35,user.name@site.org,01/17/2023,LA
+1446,Diana,8,invalid@,2023-01-16,SF
+1879,Diana,28,invalid@,Invalid Date,LA
+1826,Eve,39,,2023-01-16,San Francisco
+1037,Charlie,78,example@domain.com,2023-01-16,NY
+1683,Diana,,,15-01-2023,New York
+1046,Alice,11,,2023-01-15,New York
+1661,Frank,47,user.name@site.org,15-01-2023,NY
+1348,,21,,2023-01-16,New York
+1041,Alice,96,,Invalid Date,New York
+1815,Charlie,53,example@domain.com,2023-01-16,Los Angeles
+1982,,22,user.name@site.org,2023-01-16,NY
+1084,,,,2023-01-16,NY
+1614,Eve,25,,Invalid Date,New York
+1671,Diana,3,,2023-01-16,NY
+1313,Charlie,61,,2023-01-15,NY
+1070,Diana,66,,15-01-2023,Los Angeles
+1009,Eve,24,,01/17/2023,Los Angeles
+1604,,,invalid@,2023-01-16,San Francisco
+1116,Charlie,,user.name@site.org,2023-01-16,
+1769,Frank,43,,2023-01-16,LA
+1231,Charlie,75,user.name@site.org,2023-01-16,SF
+1441,Frank,,,01/17/2023,San Francisco
+1281,,,user.name@site.org,Invalid Date,
+1483,Eve,10,,2023-01-15,SF
+1918,Charlie,71,user.name@site.org,15-01-2023,LA
+1845,Frank,85,,Invalid Date,Los Angeles
+1921,,43,invalid@,01/17/2023,San Francisco
+1506,Alice,29,invalid@,Invalid Date,SF
+1433,Alice,,,Invalid Date,San Francisco
+1969,Alice,83,example@domain.com,15-01-2023,SF
+1511,Frank,39,,2023-01-15,San Francisco
+1322,Alice,,user.name@site.org,2023-01-15,Los Angeles
+1372,,71,example@domain.com,2023-01-16,
+1095,Alice,82,user.name@site.org,01/17/2023,Los Angeles
+1511,Alice,9,,15-01-2023,Los Angeles
+1540,Alice,49,,2023-01-16,LA
+1881,Diana,,,01/17/2023,SF
+1917,,,example@domain.com,15-01-2023,New York
+1643,Eve,28,user.name@site.org,Invalid Date,New York
+1664,Frank,42,,15-01-2023,Los Angeles
+1328,Eve,29,,2023-01-15,SF
+1804,Eve,87,,2023-01-16,LA
+1982,Bob,79,,Invalid Date,
+1783,Alice,,,01/17/2023,
+1596,Alice,63,example@domain.com,Invalid Date,NY
+1287,Eve,,,01/17/2023,Los Angeles
+,Charlie,31,,2023-01-15,
+1909,Eve,94,invalid@,Invalid Date,New York
+1135,Frank,,invalid@,15-01-2023,San Francisco
+1131,Charlie,34,example@domain.com,Invalid Date,San Francisco
+1792,Bob,88,,01/17/2023,LA
+1136,,,,01/17/2023,SF
+1548,,65,user.name@site.org,2023-01-16,SF
+1501,Frank,,user.name@site.org,2023-01-16,
+1572,,,invalid@,15-01-2023,San Francisco
+1907,Bob,37,example@domain.com,2023-01-15,San Francisco
+1403,Bob,11,,01/17/2023,Los Angeles
+1524,Bob,13,,15-01-2023,NY
+1049,,38,,Invalid Date,New York
+1026,Diana,7,,2023-01-16,
+1181,Diana,20,user.name@site.org,Invalid Date,LA
+1021,Frank,,example@domain.com,15-01-2023,SF
+1358,,1,example@domain.com,Invalid Date,NY
+1190,Bob,61,user.name@site.org,15-01-2023,LA
+1745,,2,invalid@,01/17/2023,San Francisco
+1067,Charlie,,,2023-01-16,New York
+1024,Frank,87,user.name@site.org,Invalid Date,LA
+1096,Alice,94,invalid@,2023-01-15,NY
+1107,Diana,81,,15-01-2023,New York
+1737,Eve,,example@domain.com,2023-01-15,
+1900,Charlie,73,,2023-01-16,
+1819,,94,example@domain.com,2023-01-15,SF
+1518,Eve,,,2023-01-15,San Francisco
+1667,Charlie,98,invalid@,2023-01-15,SF
+1680,Frank,6,invalid@,2023-01-16,San Francisco
+1335,Charlie,70,,01/17/2023,LA
+1665,Alice,87,invalid@,15-01-2023,New York
+1736,Alice,90,example@domain.com,2023-01-15,LA
+1344,Diana,97,,15-01-2023,San Francisco
+1320,Frank,45,,2023-01-16,Los Angeles
+1392,Eve,69,example@domain.com,Invalid Date,NY
+1982,,22,user.name@site.org,2023-01-16,NY
+1921,Charlie,18,invalid@,Invalid Date,SF
+1798,Eve,35,,01/17/2023,San Francisco
+1898,Frank,66,,01/17/2023,Los Angeles
+1841,Diana,95,,2023-01-15,Los Angeles
+1717,Charlie,47,user.name@site.org,2023-01-16,LA
+1399,Frank,36,,2023-01-15,LA
+1271,Bob,84,,Invalid Date,NY
+1439,Frank,9,example@domain.com,15-01-2023,SF
+1306,Bob,,,Invalid Date,LA
+1004,,85,user.name@site.org,Invalid Date,SF
+1875,Frank,81,,01/17/2023,NY
+1105,Eve,,,01/17/2023,SF
+1652,Bob,67,,2023-01-15,SF
+1578,Bob,35,,15-01-2023,
+1304,Frank,99,example@domain.com,2023-01-15,New York
+1248,Alice,48,user.name@site.org,15-01-2023,NY
+1851,Charlie,71,user.name@site.org,01/17/2023,New York
+1746,Bob,,user.name@site.org,01/17/2023,Los Angeles
+1796,Alice,18,user.name@site.org,01/17/2023,San Francisco
+1762,Diana,57,user.name@site.org,2023-01-16,San Francisco
+1849,Alice,,user.name@site.org,Invalid Date,San Francisco
+1408,Diana,69,invalid@,2023-01-16,San Francisco
+1361,,4,,15-01-2023,SF
+1124,Diana,22,example@domain.com,Invalid Date,SF
+1614,Frank,79,example@domain.com,01/17/2023,San Francisco
+1139,Alice,31,example@domain.com,01/17/2023,NY
+1052,Alice,46,,2023-01-16,
+1157,Frank,26,,2023-01-15,SF
+1804,Diana,52,user.name@site.org,2023-01-15,New York
+1761,Frank,,invalid@,01/17/2023,NY
+1138,Charlie,89,,2023-01-16,San Francisco
+1892,Frank,58,,2023-01-16,NY
+1417,Alice,,example@domain.com,01/17/2023,NY
+1635,Bob,15,,Invalid Date,SF
+1694,Charlie,35,example@domain.com,2023-01-15,SF
+1950,Frank,,user.name@site.org,01/17/2023,
+1177,Frank,,,Invalid Date,SF
+1227,,,invalid@,01/17/2023,New York
+1594,Bob,,user.name@site.org,01/17/2023,New York
+1294,Bob,91,example@domain.com,Invalid Date,
+1548,Bob,9,invalid@,2023-01-16,
+1881,,39,,2023-01-15,New York
+1130,Charlie,,invalid@,2023-01-15,Los Angeles
+1715,Charlie,77,,15-01-2023,LA
+1023,Alice,,example@domain.com,Invalid Date,Los Angeles
+1866,Bob,49,,2023-01-16,San Francisco
+1448,Bob,48,,15-01-2023,SF
+1552,Charlie,91,example@domain.com,01/17/2023,New York
+1216,Alice,45,,2023-01-16,New York
+1838,,,user.name@site.org,01/17/2023,SF
+1472,Charlie,1,,2023-01-15,New York
+1811,Bob,15,user.name@site.org,01/17/2023,New York
+1946,Bob,59,example@domain.com,15-01-2023,San Francisco
+1928,Eve,,,2023-01-16,New York
+1648,Frank,17,invalid@,15-01-2023,Los Angeles
+1333,Diana,18,example@domain.com,2023-01-16,NY
+1272,Eve,73,example@domain.com,01/17/2023,
+1708,Eve,47,,01/17/2023,
+1803,Frank,26,,2023-01-15,LA
+1026,Frank,7,,15-01-2023,Los Angeles
+1843,Diana,,invalid@,2023-01-15,San Francisco
+1128,Eve,25,,2023-01-15,
+1348,Bob,30,invalid@,01/17/2023,Los Angeles
+1944,Charlie,38,user.name@site.org,2023-01-16,San Francisco
+1079,Charlie,29,,2023-01-16,San Francisco
+1570,Alice,,,01/17/2023,New York
+1548,,,invalid@,2023-01-16,Los Angeles
+1660,Bob,,invalid@,01/17/2023,
+1275,,73,user.name@site.org,15-01-2023,New York
+1001,,13,,01/17/2023,SF
+1155,Diana,54,,Invalid Date,Los Angeles
+1252,Eve,88,,2023-01-16,NY
+1713,Bob,94,invalid@,01/17/2023,SF
+1008,Diana,59,user.name@site.org,Invalid Date,
+1770,Diana,26,example@domain.com,2023-01-15,Los Angeles
+1792,Frank,67,,2023-01-15,LA
+1959,,96,user.name@site.org,2023-01-15,NY
+1637,Alice,4,user.name@site.org,15-01-2023,LA
+1504,Charlie,,,Invalid Date,
+1633,Frank,15,user.name@site.org,2023-01-15,San Francisco
+1908,,51,example@domain.com,15-01-2023,NY
+1502,Alice,26,user.name@site.org,2023-01-16,San Francisco
+1116,,38,invalid@,2023-01-16,New York
+1347,Alice,48,,2023-01-15,NY
+1983,Alice,53,user.name@site.org,01/17/2023,San Francisco
+1599,Bob,,,01/17/2023,San Francisco
+1966,,91,,2023-01-15,New York
+1840,Frank,,,2023-01-15,LA
+1221,Alice,26,,01/17/2023,San Francisco
+1003,Frank,,invalid@,15-01-2023,Los Angeles
+1753,,10,,2023-01-15,New York
+1290,Bob,23,user.name@site.org,15-01-2023,NY
+1102,Diana,52,user.name@site.org,2023-01-15,
+1702,Bob,62,invalid@,15-01-2023,New York
+1898,Frank,66,,01/17/2023,Los Angeles
+1091,Eve,77,user.name@site.org,2023-01-15,SF
+1054,Bob,,user.name@site.org,Invalid Date,New York
+1838,,58,example@domain.com,01/17/2023,New York
+1294,Eve,15,,15-01-2023,NY
+1293,Alice,75,example@domain.com,15-01-2023,LA
+1109,Alice,66,,Invalid Date,LA
+1003,Frank,,invalid@,15-01-2023,Los Angeles
+1851,Charlie,71,user.name@site.org,01/17/2023,New York
+1964,Diana,51,example@domain.com,2023-01-15,New York
+1863,Frank,,user.name@site.org,Invalid Date,NY
+1051,Diana,86,example@domain.com,01/17/2023,New York
+1294,Eve,15,,15-01-2023,NY
+1644,Eve,65,,Invalid Date,New York
+1344,Alice,,,01/17/2023,
+1646,Frank,10,,2023-01-16,NY
+1143,Bob,,,15-01-2023,Los Angeles
+1044,Eve,18,,15-01-2023,LA
+1908,,51,example@domain.com,15-01-2023,NY
+1775,Alice,65,user.name@site.org,01/17/2023,NY
+1712,Charlie,53,example@domain.com,Invalid Date,LA
+1223,Charlie,88,,Invalid Date,San Francisco
+1712,Charlie,53,example@domain.com,Invalid Date,LA
+1862,Frank,6,,2023-01-16,LA
+1991,Alice,35,user.name@site.org,01/17/2023,LA
+1604,Eve,13,example@domain.com,15-01-2023,NY
+1969,Alice,28,invalid@,Invalid Date,
+1444,Alice,3,invalid@,Invalid Date,San Francisco
+1374,Bob,45,invalid@,01/17/2023,San Francisco
+1845,Alice,86,example@domain.com,2023-01-16,Los Angeles
+1573,Eve,61,,2023-01-16,San Francisco
+1013,Bob,77,,01/17/2023,San Francisco
+1898,Charlie,28,,15-01-2023,SF
+1576,Eve,,,2023-01-16,New York
+1137,Eve,30,user.name@site.org,Invalid Date,NY
+1541,Eve,42,invalid@,2023-01-16,
+1271,Bob,84,,Invalid Date,NY
+1024,,,example@domain.com,2023-01-15,San Francisco
+1992,Frank,14,user.name@site.org,01/17/2023,LA
+1944,Frank,59,invalid@,Invalid Date,NY
+1259,Charlie,,user.name@site.org,01/17/2023,
+1544,Frank,69,user.name@site.org,Invalid Date,SF
+1969,Alice,78,,Invalid Date,New York
+1632,Bob,52,example@domain.com,15-01-2023,
+1466,Charlie,94,user.name@site.org,2023-01-16,SF
+1672,Frank,61,,2023-01-16,NY
+1993,Charlie,,,15-01-2023,LA
+1663,Charlie,22,invalid@,2023-01-16,NY
+1170,Charlie,55,invalid@,2023-01-16,San Francisco
+1643,Charlie,3,,2023-01-16,
+1983,Alice,,invalid@,15-01-2023,NY
+1660,Bob,,invalid@,01/17/2023,
+1409,Eve,24,,2023-01-16,SF
+1241,,,,01/17/2023,New York
+1032,,77,user.name@site.org,15-01-2023,LA
+1384,Diana,49,,Invalid Date,New York
+1804,Bob,1,example@domain.com,15-01-2023,SF
