@@ -1,7 +1,7 @@
 # 📊 Free Datasets for Data Science & Analytics Practice
 
 Welcome to this repository! 🚀 I am providing free datasets to help you practice data science, data analytics, machine learning, and other related fields. These datasets come with competition-style challenges to enhance your skills.
-
+# CPSD - Competition and problem-solving style datasets
 ## 📂 What You’ll Find Here
 - 📄 **DOC files**: Click on them to access competition challenges along with dataset links.
 - 🔗 **Dataset Links**: Direct access to the datasets for practice.
